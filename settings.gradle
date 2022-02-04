@@ -1,0 +1,2 @@
+rootProject.name = "Room_Sqlite_Practice_Jay"
+include ':app'
